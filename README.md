@@ -9,7 +9,7 @@ Drupal and Magento).
 
 Installation
 ------------
-
+--- test
 * [Install Symfony][4] with Composer or with our own installer (see
   [requirements details][3]).
 * Symfony follows the [semantic versioning][5] strictly, publishes "Long Term
