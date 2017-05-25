@@ -8,16 +8,7 @@ BlaBlaCar.com and Spotify.com) and most of the [popular PHP projects][2] (includ
 Drupal and Magento).
 
 Installation
-------------
---- test
-* [Install Symfony][4] with Composer or with our own installer (see
-  [requirements details][3]).
-* Symfony follows the [semantic versioning][5] strictly, publishes "Long Term
-  Support" (LTS) versions and has a [release process][6] that is predictable and
-  business-friendly.
 
-Documentation
--------------
 
 * Read the [Getting Started guide][7] if you are new to Symfony.
 * Try the [Symfony Demo application][23] to learn Symfony in practice.
